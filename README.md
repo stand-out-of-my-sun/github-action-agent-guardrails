@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Powered by Diogenes](https://img.shields.io/badge/Powered%20By-Diogenes%20Gateway-purple.svg)](https://diogenesgateway.com)
-[![Prepaid Keys](https://img.shields.io/badge/Prepaid%20Keys-%3C0.1ms%20Fast%20Path-orange.svg)](https://diogenesgateway.com#prepay-checkout-widget)
 
 Drop into any `.github/workflows/*.yml` to block prompt injections, destructive shell commands, and unsafe SQL migrations automatically. Runs on the **100% Free Developer Tier** (zero keys required) or with a prepaid session key (`dg_sec_...`) for unlimited high-frequency CI/CD runs:
 
